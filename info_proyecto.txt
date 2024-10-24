@@ -1,2 +1,3 @@
-infor_proyecto.txt
+info_proyecto.txt
+hola
 
