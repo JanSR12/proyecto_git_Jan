@@ -2,4 +2,4 @@ info_proyecto.txt
 hola
 adios
 ejericio 26
-
+ejericio 27
