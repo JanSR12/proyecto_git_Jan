@@ -3,3 +3,5 @@ hola
 adios
 gustavo
 gustavo ejercicio27
+ejericio 26
+ejericio 27
