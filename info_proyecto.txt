@@ -1,3 +1,5 @@
 info_proyecto.txt
 hola
 adios
+gustavo
+gustavo ejercicio27
